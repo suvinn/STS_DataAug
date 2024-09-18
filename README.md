@@ -1,4 +1,4 @@
-# 문맥을 고려한 한국어 텍스트 데이터 증강 (Korean Text Augmentation Considering Context, **K-TACC**)
+# Data Augmentation using Korean Text Augmentation Considering Context, **K-TACC**
 
 ## Overview
 `Random Masking Insertion` : BERT based 모델을 활용하여, 의미상 자연스러운 토큰을 삽입하는 형식으로 문장 augmentation 수행
